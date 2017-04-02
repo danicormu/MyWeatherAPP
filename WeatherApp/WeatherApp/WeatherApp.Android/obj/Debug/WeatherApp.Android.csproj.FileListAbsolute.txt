@@ -77,5 +77,6 @@ C:\Users\Daniel Corrales\Documents\GitHub\MyWeatherAPP\WeatherApp\WeatherApp\Wea
 C:\Users\Daniel Corrales\Documents\GitHub\MyWeatherAPP\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Daniel Corrales\Documents\GitHub\MyWeatherAPP\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Daniel Corrales\Documents\GitHub\MyWeatherAPP\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Daniel Corrales\Documents\GitHub\MyWeatherAPP\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\res\layout\main.xml
 C:\Users\Daniel Corrales\Documents\GitHub\MyWeatherAPP\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\WeatherApp.Android.dll.mdb
 C:\Users\Daniel Corrales\Documents\GitHub\MyWeatherAPP\WeatherApp\WeatherApp\WeatherApp.Android\bin\Debug\WeatherApp.Android.dll.mdb
